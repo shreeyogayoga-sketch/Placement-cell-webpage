@@ -1,0 +1,1 @@
+A Placement Cell Management Webpage designed to help students track job opportunities, company listings, roles, and application deadlines. This project provides an interactive and user-friendly interface for students to view details about companies visiting the campus and apply directly through the portal.
